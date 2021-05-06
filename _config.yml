@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          Chiseung Ahn's Github
+description:    "Trying to keep records and learn"
+url:            https://chiseungahn96.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Chiseung Ahn
+  email:        acs1113@naver.com
+  url:          https://github.com/chiseungahn96
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,6 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: acs1113@naver.com
+  github: https://github.com/chiseungahn96
+  linkedin: https://www.linkedin.com/in/chiseung-ahn-b514b1192/
